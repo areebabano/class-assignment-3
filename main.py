@@ -34,7 +34,6 @@ user_input = input("Enter a string to count vowels: ")
 result = vowels_count(user_input)
 print(f"Number of vowels: {result}")
 
-
 # 🔹 Problem 3: Sum of Digits
 # Write a function that takes a non-negative integer and returns the sum of its digits.
 # Example:
